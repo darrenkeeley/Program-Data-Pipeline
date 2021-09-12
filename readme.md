@@ -1,7 +1,7 @@
 # Next Best Action pipeline
 
 ## Usage
-This program downloads data on program enrollment and eligibility requirements for a fictional company and uploads it to a secure file transfer (SFT) site for a fictional vendor to analyze. It is based on learned professional experience.
+This program downloads data on program enrollment and eligibility requirements for a fictional company and uploads it to a secure file transfer (SFT) site for a fictional vendor to analyze.
 
 See Setup section for how to use the program.
 
