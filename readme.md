@@ -37,4 +37,4 @@ TDPRD=
  )
 ```
 
-* Queries can be added or removed from the Queries folder. The folder structure is Program Name / Database Name / SQL query that is a SQL file named after the data.# Program-Data-Pipeline
+* Queries can be added or removed from the Queries folder. The folder structure is Program Name / Database Name / SQL query that is a SQL file named after the data.
