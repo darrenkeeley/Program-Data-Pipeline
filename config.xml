@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+	<td>
+		<username>USERNAME</username>
+		<password>PASSWORD</password>
+	</td>
+	
+	<cas>
+		<username>USERNAME</username>
+		<password>PASSWORD</password>
+	</cas>
+
+	<crcr>
+		<username>USERNAME</username>
+		<password>PASSWORD</password>
+	</crcr>
+	
+	<sft>
+		<username>USERNAME</username>
+		<password>PASSWORD</password>
+	</sft>
+	
+	<paths>
+		<pipeline_script_filepath>C:/db to sft pipeline</pipeline_script_filepath>
+		<winscp_filepath>C:/Program Files (x86)/WinSCP/WinSCP.com</winscp_filepath>
+		<sft_filepath>/vendor/program_data</sft_filepath>
+	</paths>
+	
+</config>

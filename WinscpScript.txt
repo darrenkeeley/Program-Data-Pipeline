@@ -1,0 +1,9 @@
+option batch abort
+option confirm off
+option reconnecttime off
+
+open sftp://%1%:%2%@sft.com -hostkey="abc-def 1234 xx:xx:xx:xx:xx:xx:xx"
+
+synchronize remote "%3%" "%4%" -resumesupport=off
+
+exit
